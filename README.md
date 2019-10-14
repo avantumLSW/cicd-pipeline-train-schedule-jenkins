@@ -16,4 +16,4 @@ Once it is running, you can access it in a browser at [http://localhost:3000](ht
 
 ## Append something to rebuild with jenkins
 
-This text is for rebuilding it with jenkins. Visit [https://app.linuxacademy.com/hands-on-labs/49f130ca-6b03-4713-820d-763d62942bfd](this lab) to see the tasks.
+This text is for rebuilding it with jenkins. Visit [this lab](https://app.linuxacademy.com/hands-on-labs/49f130ca-6b03-4713-820d-763d62942bfd) to see the tasks.
